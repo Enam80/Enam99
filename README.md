@@ -1,9 +1,101 @@
-<h1 align="center">Hi 👋, I'm Enamul Huq</h1>
-<h3 align="center">A passionate Backend and frontend developer from Bangladesh</h3>
+# Hi 👋, I'm Enamul Huq
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Oracle EBS Techno-Functional Consultant | Oracle APEX Developer | ERP Specialist
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am a passionate software professional with strong experience in **Oracle EBS, Oracle APEX, SQL, and ERP system development**.  
+I specialize in building **enterprise-level business solutions** including Inventory, POS, Manufacturing, and Financial Systems.
+
+---
+
+## 💼 What I Do
+
+- 🔹 Develop ERP Systems (Inventory, Sales, Purchase, Accounts)
+- 🔹 Build Web Applications using Oracle APEX
+- 🔹 Design Database Architecture (Oracle 19c)
+- 🔹 Optimize Complex SQL Queries & Reports
+- 🔹 Implement Business Workflows & Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Technologies & Tools
+- Oracle EBS
+- Oracle APEX
+- Oracle Database (19c)
+- SQL / PL-SQL
+- Oracle Forms & Reports
+
+### ⚙️ Other Skills
+- ERP Design & Architecture
+- POS System Development
+- Inventory & Supply Chain Systems
+- BOM & Manufacturing Process Design
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 ERP System (Oracle APEX)
+- Modules: Inventory, Sales, Purchase, Accounts
+- Features:
+  - Batch Tracking
+  - Stock Management
+  - Financial Reports
+  - POS Integration
+
+---
+
+### 🔹 MLM Software System
+- Multi-level commission structure
+- User hierarchy management
+- Wallet & transaction system
+
+---
+
+### 🔹 POS (Point of Sale) System
+- Sales & Billing
+- Inventory Sync
+- Customer Management
+- Real-time Reporting
+
+---
+
+### 🔹 Manufacturing ERP (BMR System)
+- Batch Manufacturing Record (BMR)
+- BOM & Routing
+- Production Tracking
+- Costing System
+
+---
+
+## 📊 GitHub Stats
+
+![Enamul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enam80&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Enam80&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- Oracle Cloud Infrastructure (OCI)
+- AI & Machine Learning Basics
+- Advanced System Design
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: (Add your email here)
+
+---
+
+## ⚡ Fun Fact
+
+I love solving complex business problems through **smart ERP solutions** and clean database design.
+
+---
+
+⭐ *“Turning business requirements into powerful software solutions.”*
